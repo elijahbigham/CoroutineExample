@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ThreadExample</string>
+    <string name="buttonText">Start</string>
+    <string name="click_button_to_start_timer">Click button to start timer</string>
+</resources>
